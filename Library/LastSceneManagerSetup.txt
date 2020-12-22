@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/Cel-Shading Toon Shader.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
